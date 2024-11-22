@@ -2,7 +2,7 @@
 
 
 MyClass redLED(13);     // Object
-MyClass greenLED(11); // Object
+MyClass greenLED(12); // Object
 
 void setup() {
   
