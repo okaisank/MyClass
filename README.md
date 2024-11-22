@@ -37,6 +37,6 @@
  - Pull Down
 ## ACTIVE_HIGH หรือ ค่า 1
 
-## ACTIVE_LOW  หรือ ค่า 0
+## ACTIVE_LOW   หรือ ค่า 0
 To replicate this, wire up the system as shown below:
 ![system_diagram](https://github.com/okaisank/MyClass/blob/8aac796b07d319f0b17f061d362e680e46e08217/Pull-up-and-Pull-down-Resistor.png)
