@@ -19,9 +19,9 @@
   modified 22 Nov 2024
   by JOe Vohan
 
-  This example code is in github.
+  This example code is in Github.
 
-  http://www.arduino.cc/en/Tutorial/Button
+  https://github.com/okaisank/MyClass
 */
 
 
