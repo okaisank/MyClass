@@ -10,7 +10,7 @@ MyClass::MyClass(int pin) {
 
 // ฟังก์ชันตั้งค่า pushbutton
 void MyClass::setButtonPin(int buttonPin) {
-  pinMode(buttonPin, INPUT_PULLDOWN);// Thise circuit use Pull Down for status 0 , ตรงข้ามกันถ้าใช้ INPUT_PULLUP status 1.
+  pinMode(buttonPin, INPUT);// Thise circuit use Pull Down for status 0 , ตรงข้ามกันถ้าใช้ INPUT_PULLUP status 1.
   _buttonPin = buttonPin; // เก็บค่าขา Pin ของปุ่ม
 }
 
